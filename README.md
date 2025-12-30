@@ -37,7 +37,7 @@ jpXCode-Optimizer/
 ├── ai_engine.py
 ├── requirements.txt
 └── README.md
-
+```
 🖥️ Kebutuhan Sistem
 
 Windows 10 / 11
@@ -50,27 +50,31 @@ DeepSeek API Key (Free)
 
 📦 Instalasi
 1️⃣ Clone Repository
+```python
 git clone https://github.com/jpXproject/jpXCode-Optimizer.git
 cd jpXCode-Optimizer
-
+``` 
 2️⃣ Install Dependencies
+```python
 pip install -r requirements.txt
-
+```
 3️⃣ Set DeepSeek API Key (Windows)
+```python
 set DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxx
-
+```
 
 ⚠️ Jangan hardcode API key ke dalam source code.
 
 ▶ Menjalankan Aplikasi
+```python
 python main.py
-
+```
 📦 Compile ke EXE (Opsional)
 ```python
 pip install pyinstaller
 
 pyinstaller --onefile --noconsole main.py
-
+```
 
 Hasil build:
 
