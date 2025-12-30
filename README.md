@@ -37,3 +37,72 @@ jpXCode-Optimizer/
 ├── ai_engine.py
 ├── requirements.txt
 └── README.md
+
+🖥️ Kebutuhan Sistem
+
+Windows 10 / 11
+
+Python 3.9+
+
+Internet (untuk AI Assistant)
+
+DeepSeek API Key (Free)
+
+📦 Instalasi
+1️⃣ Clone Repository
+git clone https://github.com/jpXproject/jpXCode-Optimizer.git
+cd jpXCode-Optimizer
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Set DeepSeek API Key (Windows)
+set DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxx
+
+
+⚠️ Jangan hardcode API key ke dalam source code.
+
+▶ Menjalankan Aplikasi
+python main.py
+
+📦 Compile ke EXE (Opsional)
+pip install pyinstaller
+
+pyinstaller --onefile --noconsole main.py
+
+
+Hasil build:
+
+/dist/main.exe
+
+⚠️ Disclaimer
+
+Aplikasi ini:
+
+Tidak mengubah registry secara otomatis
+
+Tidak mematikan service tanpa persetujuan user
+
+Memberikan rekomendasi, bukan eksekusi paksa
+
+Gunakan dengan bijak.
+
+🚀 Roadmap
+
+AI Auto-Apply (Safe Mode)
+
+Optimization Profile (Gaming / Work)
+
+Startup Manager (Enable / Disable)
+
+System Health Score
+
+Background Tray Monitor
+
+👤 Author
+
+jpX project
+
+📜 License
+
+MIT License
