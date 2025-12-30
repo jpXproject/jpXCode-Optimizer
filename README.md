@@ -66,6 +66,7 @@ set DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxx
 python main.py
 
 📦 Compile ke EXE (Opsional)
+```python
 pip install pyinstaller
 
 pyinstaller --onefile --noconsole main.py
