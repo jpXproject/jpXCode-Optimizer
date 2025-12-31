@@ -4,6 +4,13 @@ Windows System Optimizer dengan **AI Recommendation Engine (DeepSeek API)**.
 Tool ini dibuat untuk **penggunaan nyata di PC pribadi**, fokus pada **monitoring realtime, analisis proses, dan rekomendasi optimasi yang aman**.
 
 ---
+# jpXCode Optimizer 🤖⚡
+
+![Visitors](https://komarev.com/ghpvc/?username=jpXproject&color=00ff88)
+[![Instagram](https://img.shields.io/badge/Instagram-@jpxproject-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jepanx)
+[![Threads](https://img.shields.io/badge/Threads-@jepanx-000000?logo=threads&logoColor=white)](https://www.threads.com/@jepanx)
+[![Facebook](https://img.shields.io/badge/Facebook-jpXproject-1877F2?logo=facebook&logoColor=white)](https://facebook.com/jepanx.id)
+[![Tiktok](https://img.shields.io/badge/Tiktok-Binary[X]code-1877F2?logo=tiktok&logoColor=white)](https://tiktok.com/@oneal___)
 
 ## ✨ Fitur Utama
 
