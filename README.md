@@ -77,9 +77,9 @@ pyinstaller --onefile --noconsole main.py
 ```
 
 Hasil build:
-
+```
 /dist/main.exe
-
+```
 ⚠️ Disclaimer
 
 Aplikasi ini:
