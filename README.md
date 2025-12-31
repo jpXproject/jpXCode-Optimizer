@@ -8,9 +8,10 @@ Tool ini dibuat untuk **penggunaan nyata di PC pribadi**, fokus pada **monitorin
 
 ![Visitors](https://komarev.com/ghpvc/?username=jpXproject&color=00ff88)
 [![Instagram](https://img.shields.io/badge/Instagram-@jpxproject-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jepanx)
-[![Threads](https://img.shields.io/badge/Threads-@jepanx-000000?logo=threads&logoColor=white)](https://www.threads.com/@jepanx)
+[![Threads](https://img.shields.io/badge/Threads-@jepanx-4B0082?logo=threads&logoColor=white)](https://www.threads.com/@jepanx)
 [![Facebook](https://img.shields.io/badge/Facebook-jpXproject-1877F2?logo=facebook&logoColor=white)](https://facebook.com/jepanx.id)
-[![Tiktok](https://img.shields.io/badge/Tiktok-Binary[X]code-1877F2?logo=tiktok&logoColor=white)](https://tiktok.com/@oneal___)
+[![Tiktok](https://img.shields.io/badge/Tiktok-Binary[X]code-663399?logo=tiktok&logoColor=white)](https://tiktok.com/@oneal___)
+[![Threads](https://img.shields.io/badge/lynk.id-jpxcode-90EE90?logo=lynk&logoColor=green)](https://lynk.id/jpxcode)
 
 ## ✨ Fitur Utama
 
